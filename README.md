@@ -1,4 +1,4 @@
-# Brain MRI Classification Workshop
+# Google Developer Org | Brain MRI Classification Workshop
 
 ### Technical leadership and hands-on computer vision education
 
